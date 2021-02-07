@@ -22,13 +22,13 @@ intact. The protocols also specify that the length of a line is
 limited. Currently, this limit is 510 characters for PhoneNet and 256
 characters for SMTP on the Internet (Mr. Protocol realizes that the
 SMTP specification calls for 1000-character lines. He is still waiting
-for the More Perfect World to which he continually refers.) This mear
-hat binary files, which have newline characters sprinkled at random,
-are liable to cause gastric ress in MMDF due to long lines, as well as
-having all the high-order bits turned off.
+for the More Perfect World to which he continually refers.) This means
+that binary files, which have newline characters sprinkled at random,
+are liable to cause gastric distress in MMDF due to long lines, as
+well as having all the high-order bits turned off.
 
-Protocols, of course, are designed to help, never to
-harm. Consequently, people have designed ways to transmit real 8-bit
+Protocols, of course, are designed to help, never to harm.
+Consequently, people have designed ways to transmit real 8-bit
 programs over 7-bit networks. This is done by encoding the binary data
 using one of several schemes. The resulting messages consist entirely
 of ASCII text with reasonable line lengths, but are encoded versions
@@ -43,7 +43,7 @@ Mr. Protocol points out with some disgust that there is another
 intrusion of protocol which can cause damage to perfectly legal mail
 messages. The SMTP specification uses a line consisting of a single
 period to terminate transmission of the text of a message. Any lines
-in the message which already consist of a single V are to be changed
+in the message which already consist of a single '.' are to be changed
 to and fixed at the far end. However, some network implementors prefer
 to boldly paint the network canvas in sweeping strokes, and leave the
 detail work to others. The result is that many mail systems will do

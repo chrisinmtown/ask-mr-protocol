@@ -22,7 +22,7 @@ mission in life. Some years ago, shortly after the unfortunate
 conclusion of the Babel Project, a need was felt to formalize certain
 types of communication. To this end, protocols were developed. In the
 beginning, these served to allow diplomats from various countries to
-carry on relations between said countries without coming to blows ova-
+carry on relations between said countries without coming to blows over
 the conference table. A protocol was merely an extremely complex and
 codified body of convention governing speech and behavior which served
 to allow predictability, on the grounds that unpleasant surprises have
@@ -51,7 +51,7 @@ you said?
 
 **MR. SCIENCE:** That’s a fascinating explanation, Mr. Protocol. Of
 course, these days we know better. The word “protocol” comes from the
-word “proto”, meaning “almost”, and “call”, meaning to talk on tire
+word “proto”, meaning “almost”, and “call”, meaning to talk on the
 telephone. Therefore, a computer protocol is almost like talking on
 the telephone. That’s the sort of thing our big, expensive computers
 are doing all day long. That’s also the reason most diplomats’ phone

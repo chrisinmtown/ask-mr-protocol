@@ -87,8 +87,8 @@ SUPDUP. But it never caught on.)
 Finally, mail systems of necessity must implement their own
 store-and-forward queueing system. This makes no sense at all for
 TELNET, and File Transfer Protocol has no history: it either works or
-it dot n’t, but requests are not queued. Any queueing system is prone
-to breakage, and mail systems - written to be as paranoid as possible
+it doesn't, but requests are not queued. Any queueing system is prone
+to breakage, and mail systems are written to be as paranoid as possible
 in an effort to prevent this. Automated paranoia makes for big
 programs.
 

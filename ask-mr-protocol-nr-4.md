@@ -38,7 +38,7 @@ Peter Honeyman, who, given a message which has already traversed a
 path, is able to construct the best possible return path using a
 priori knowledge and a healthy dose of graph theory. (See “A Parser
 for Electronic Mail Addresses”, by Peter Honeyman and Pat
-E. Parseghian, PROCEEDINGS, USENDC Association Winter Conference,
+E. Parseghian, PROCEEDINGS, USENIX Association Winter Conference,
 Dallas 1985, pp 184-190.)
 
 This theory, of course, only works on healthy addresses, complex as
@@ -98,7 +98,7 @@ A few simple rules:
 
 1)	BE LAZY. Try to use domain routing where possible. If your destination address lies in UUCP-land, try to get someone else to figure out how to do the work. The Relay will forward mail sent to “user@host.UUCP” to a host which can generally figure out a path.
 2)	STAY ON KEY. Try to gather together all information having to do with a single network. That is, keep all “!’”s together, all “%’”s together, and please, for the sake of Mr. Protocol’s digestion, and that of all mailers along the way, try to use only ONE “@” sign.
-3)	BE CURIOUS. When in doubt, ask the GC. The wizards here have been constructing address symphonies for some time, and have some ideas as to what works and what doesn’t
+3)	BE CURIOUS. When in doubt, ask the CIC. The wizards here have been constructing address symphonies for some time, and have some ideas as to what works and what doesn’t
 
 When domain routing becomes real, all of this external ugliness will
 disappear, and be replaced by internal ugliness, hidden from the

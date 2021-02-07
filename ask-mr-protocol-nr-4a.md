@@ -17,7 +17,7 @@ at least it’s unambiguous.
 
 Is the problem that many hosts cannot handle source routes? In this
 case, can purdue.csnet invoke the uucp mailer with the appropriate
-address (princetonlhoneyldown)? If so, please send me a copy of their
+address (princeton!honey!down)? If so, please send me a copy of their
 sendmaiLcf, especially if they could generate a working return address
 (from honey .uucp)...
 
