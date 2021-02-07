@@ -3,8 +3,8 @@
 This is a collection of columns from the mid 1980s with networking and
 unix system humor by Mike O'Brien.
 
-As a young college intern in Ohio I was responsible for maintaning the UUCP
-system for my employer. At the time I stumbled upon, chuckled over and
+As a young college intern in Ohio I was responsible for maintaining the
+UUCP system for my employer. At the time I stumbled upon, chuckled over and
 squirrelled away printouts of columns by Mike O'Brien about network issues.
 Later I was an avid user of MH and MMDF.  If you recognize these acronyms
 you're as ancient as I am :)
@@ -37,5 +37,4 @@ find Mike O'Brien so if anyone knows him please pass this along!
 * [#10, 29 Dec 1987](ask-mr-protocol-nr-10.md)
 * [Appendix 1, 26 May 1987](ask-mr-protocol-apdx-1.md)
 
-Yes, the dates jump around inconsistently.
-I simply reproduced the printed copies faithfully.
+Yes, the dates jump around; that's how they appear on the printed copies.
