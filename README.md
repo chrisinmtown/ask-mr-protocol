@@ -5,7 +5,10 @@ unix system humor by Mike O'Brien.
 
 As a young college intern in Ohio I was responsible for maintaning the UUCP
 system for my employer. At the time I stumbled upon, chuckled over and
-quirrelled away printouts of columns by Mike O'Brien about network issues.
+squirrelled away printouts of columns by Mike O'Brien about network issues.
+Later I was an avid user of MH and MMDF.  If you recognize these acronyms
+you're as ancient as I am :)
+
 A book with this material has gone out of print:
 
     https://www.amazon.com/OBrien-Ask-Mr-Protocol-Collected/dp/0125239602
