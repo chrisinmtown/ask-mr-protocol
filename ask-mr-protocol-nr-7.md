@@ -1,12 +1,15 @@
-﻿# ASK MR. PROTOCOL (#7): Who That Say Who That?
+# ASK MR. PROTOCOL (#7): Who That Say Who That?
 
 ## June 12, 1985
 
 > No sound was heard of clashing wars;
+
 > Peace brooded o’er the hushed domain...
+
 > —	Alfred Domett
 
 > Don't look back — someone might be gainin' on you.
+
 > —	Satchel Paige
 
 Q: What’s in a name?

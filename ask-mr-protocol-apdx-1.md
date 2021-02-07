@@ -1,4 +1,4 @@
-﻿# APPENDIX I: Mr Protocol Soaks His Head
+# APPENDIX I: Mr Protocol Soaks His Head
 
 ## May 26, 1987
 
